@@ -1,0 +1,23 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/jessevdk/go-flags",
+			"repository": "https://github.com/jessevdk/go-flags",
+			"revision": "f2785f5820ec967043de79c8be97edfc464ca745",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/olorin/nagiosplugin",
+			"repository": "https://github.com/olorin/nagiosplugin",
+			"revision": "040efd9fb01cf3af4ca7efdd8b6a57ef26e58d30",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/soniah/gosnmp",
+			"repository": "https://github.com/soniah/gosnmp",
+			"revision": "f6904fd235070fe56e2c2d799ac5f5862fc32543",
+			"branch": "master"
+		}
+	]
+}
